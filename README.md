@@ -1,2 +1,2 @@
 # AzureBicep
-Repository for Azure Bicep mini workshop
+Repository for Azure Bicep mini workshop.
